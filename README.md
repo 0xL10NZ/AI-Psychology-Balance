@@ -64,4 +64,4 @@ Copy
 Edit
 flutter build apk
 📩 Contact
-For support or inquiries, contact [your.email@example.com].
+For support or inquiries, contact 0xl10nz@disroot.org
