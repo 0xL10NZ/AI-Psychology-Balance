@@ -27,17 +27,20 @@ OpenAI API (chat with GPT-3.5 as psychologist)
 HTTP package for API communication
 
 🚀 Getting Started
+
 1. Clone the repo
 bash
 Copy
 Edit
 git clone https://github.com/yourusername/ai-psychology-balance.git
 cd ai-psychology-balance
+
 2. Install dependencies
 bash
 Copy
 Edit
 flutter pub get
+
 3. Firebase setup
 Add your google-services.json to /android/app/
 
@@ -48,6 +51,7 @@ bash
 Copy
 Edit
 flutter run
+
 🔐 Environment
 Make sure to replace the placeholder API key in chat_screen.dart:
 
@@ -55,6 +59,7 @@ dart
 Copy
 Edit
 final String _apiKey = 'sk-...'; // Replace with your OpenAI API Key
+
 💡 Premium Access
 To test premium functionality, you can manually set the isPremium field in Firestore for a test user.
 
@@ -63,5 +68,6 @@ bash
 Copy
 Edit
 flutter build apk
+
 📩 Contact
 For support or inquiries, contact 0xl10nz@disroot.org
